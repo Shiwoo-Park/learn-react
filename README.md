@@ -1,6 +1,6 @@
 # ReactJS 로 영화 웹서비스 만들기 by nomadcoders
 
-[LectureLink](https://nomadcoders.co/react-fundamentals/lobby)
+[Lecture Link](https://nomadcoders.co/react-fundamentals/lobby)
 
 ## Concepts
 
